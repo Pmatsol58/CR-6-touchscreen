@@ -1,19 +1,18 @@
-# CR-6 Touchscreen software
-Attempt to extend the CR-6 touch screen software. This repository belongs to the [forked Marlin firmware repository](https://github.com/CR6Community/Marlin/).
+# Vyper Touchscreen software
+Attempt to extend the Vyper touch screen software.
 
 ## Downloads
 
-Please find official releases in the [Releases section](https://github.com/CR6Community/CR-6-touchscreen/releases). Take the release which belongs to the particular firmware you are going to flash.
+Please find official releases in the [Releases section](https://github.com/Pmatsol58/CR-6-touchscreen/releases/tag/v2.0.8.1-vyper-community-release-6.1). 
 
-Ensure you take the right assets: the `CR-6-touchscreen-[date].zip`. You should not download the `Source code` archive if you are downloading with the purpose of flashing your LCD.
-
-*If you have [a BTT SKR board with the BTT TFT](https://damsteen.nl/blog/2020/11/25/how-to-btt-skr-cr6-installation) you do not need this firmware. This firmware is only for when you use the stock Creality LCD with the stock or BTT motherboard.*
+The following sections are from the original Creality Community edition readme, not all is pertinent to the Vyper but is useful to read to understand how to modify the firmware and help in progressing the display features..
 
 ## Contributing
 
 We are open for contributions. **Please open an issue in the issue tracker first before you start work on a pull request.**
 
-The reason for this is that the DWIN project is not friendly for source control and any files cannot be merged (all binary). So, using our Discord server, we synchronize who is working on the files to prevent conflicts.
+The reason for this is that the DWIN project is not friendly for source control and any files cannot be merged (all binary). 
+So, using our Discord server, we synchronize who is working on the files to prevent conflicts.
 
 ### Translations / localization
 
