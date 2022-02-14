@@ -1,11 +1,11 @@
 # Vyper Touchscreen software
-Attempt to extend the Vyper touch screen software.
+Extend the Vyper touch screen software for better functionality.
 
 ## Downloads
 
 Please find official releases in the [Releases section](https://github.com/Pmatsol58/CR-6-touchscreen/releases/tag/v2.0.8.1-vyper-community-release-6.1). 
 
-The following sections are from the original Creality Community edition readme, not all is pertinent to the Vyper but is useful to read to understand how to modify the firmware and help in progressing the display features..
+The following sections are from the original Creality Community Edition 6.1 readme, not all is pertinent to the Vyper but is useful to read to understand how to modify the firmware and help in progressing the display features..
 
 ## Contributing
 
