@@ -5,7 +5,15 @@ Extend the Vyper touch screen software for better functionality.
 
 Please find official releases in the [Releases section](https://github.com/Pmatsol58/CR-6-touchscreen/releases/tag/v2.0.8.1-vyper-community-release-6.1). 
 
-The following sections are from the original Creality Community Edition 6.1 readme, not all is pertinent to the Vyper but is useful to read to understand how to modify the firmware and help in progressing the display features..
+The following sections are from the original Creality Community Edition 6.1 readme, not all is pertinent to the Vyper but is useful to read to understand how to modify the firmware and help in progressing the display features.
+Points to note are:
+1. The images are all bmp files instead of jpeg files, 
+2. The size of icons, etc. have increased for the larger pixel density of the Vyper display, 480x800 versus 272x480, 
+3. The icons, etc., ICL files have been moved around in the flash space to utilize the space better and allow for some expansion, e.g. icons have moved from block 37 to 18, toggles from 42 to 16, etc.
+4. All Virtual Pointers and screen codes have not changed so the same Marlin code can be used for both Creality and Vyper community editions
+5. Do not change the screen config file, T5LCFG, since it may brick your display requiring additional hardware to recover it
+6. The scripts mentioned in the following sections were not used in production of the Vyper display firmware release.
+
 
 ## Contributing
 
